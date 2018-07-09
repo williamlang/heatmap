@@ -1,0 +1,12 @@
+{
+    "name": "icydata/heatmap",
+    "description": "Generate heatmaps with custom backgrounds",
+    "type": "library",
+    "authors": [
+        {
+            "name": "William Lang",
+            "email": "william@icydata.hockey"
+        }
+    ],
+    "require": {}
+}
