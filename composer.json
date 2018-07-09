@@ -8,5 +8,10 @@
             "email": "william@icydata.hockey"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "IcyData\\": "src/IcyData/"
+        }
+    }
 }
