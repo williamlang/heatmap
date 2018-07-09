@@ -1,5 +1,9 @@
 # IcyData Heatmap
 
+## Installation
+
+```composer require icydata/heatmap```
+
 ## Usage
 
 ```
@@ -20,3 +24,7 @@ $heatmap = new Heatmap([
     'backgroundImg' => '/path/to/file.png'
 ]);
 ```
+
+## License
+
+Please review LICENSE.md
