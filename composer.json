@@ -16,5 +16,9 @@
     "license": "MIT",
     "homepage": "https://www.icydata.hockey",
     "prefer-stable": true,
-    "version": "v1.0.0"
+    "version": "v1.0.0",
+    "require": {
+        "php": "7",
+        "ext-gd": "*"
+    }
 }
